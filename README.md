@@ -1,5 +1,4 @@
 ### Hello! I'm Hernan from Argentina 👋
-https://cdn.dribbble.com/users/2259063/screenshots/10495285/dribbble_shot_hd_-_1_4x.png
 
 <!--
 **her-o/her-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
